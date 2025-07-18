@@ -1,5 +1,22 @@
 {
   "dependencies": {
     "ncrypt-js": "^2.1.2"
-  }
+  },
+  "name": "taller-npm-cifrado-descifrado",
+  "version": "1.0.0",
+  "description": "esta es la aplicacion de la libreria ncrypt-js",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanDavidBermeoCastro1234/Taller-NPM.git"
+  },
+  "author": "Juan David Bermeo Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanDavidBermeoCastro1234/Taller-NPM/issues"
+  },
+  "homepage": "https://github.com/JuanDavidBermeoCastro1234/Taller-NPM#readme"
 }
